@@ -42,11 +42,12 @@ Genel toplamda üretilen gelirin verimli olduğu gözükmektedir(LTV/CAC ratio).
 Örnek
 Bu aşamada Genel değerleri, aşama aşama alt kırılımlarla parçalayarak, gelir nezdinde stratejik potansiyel incelemesi yaptım. Genel verilerdeki, payback score, gelir riski, ve LTV/CAC oluşan hanttallığı, odak noktasını en dibe çekince fırsat yaratılabilecek alanlar aşağıdadır.
 
-Katman	Gelir (Revenue)	Verimlilik (LTV/CAC)	Hız (Payback)	Risk (Rev at risk)
-1. Şirket Geneli	$13452.5$	737	194 Gün	16.3%
-2. Medium (Size)	$4748.5$	1077	52 Gün	31%
-3. Buildings (Ind.)	$473.4$	1023	5.9 Gün	8\%
-4. Email (Kanal)	$73.7$	1237	0.9 Gün	0%
+| Katman | Gelir (Revenue) | Verimlilik (LTV/CAC) | Hız (Payback) | Risk (Rev at risk) |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Şirket Geneli** | $13,452.5M | 737 | 194 Gün | 16.3% |
+| **2. Medium (Size)** | $4,748.5M | 1077 | 52 Gün | 31% |
+| **3. Buildings (Ind.)** | $473.4M | 1023 | 5.9 Gün | 8% |
+| **4. Email (Kanal)** | **$73.7M** | **1237** | **0.9 Gün** | **0%** |
 
 Sonuç
 Yukarıdaki tablo nezdinde; şirket genelinde yer alan 194 günlük payback score, gelirin doğru kırılımlarla incelenmesi sonucunda 1 güne düştüğü gözükmektedir. Burada yapılacak maliyet kaydırımı veya maliyet arttırımı ile bu segmentte fırsat olduğu gözükmektedir.
