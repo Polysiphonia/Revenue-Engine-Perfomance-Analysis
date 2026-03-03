@@ -1,7 +1,7 @@
 # Revenue-Engine-Perfomance-Analysis
 Data-driven growth and risk optimization analysis using System Theory framework
 Revenue Engine: Data-Driven Performance Analysis
-![Revenue Engine Dashboard](dashboard.png)
+![Revenue Engine Dashboard](Dashboard.png)
 Bu çalışma Marketing veri setinin toplamda sahip olduğu 13.4B$’lık geliri. Sistem analizi perspektifiyle incelenmiştir. Amaç gelirin verimliliğini, gelirin yapısı, geliri oluşturan alt kırılımlardaki, scale(Büyütme) veya optimize(iyileştirme) fırsatlarını tespit ederek, geliri arttırmak için stratejik aksiyonlar oluşturulmuştur.
 
 
