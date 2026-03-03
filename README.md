@@ -5,16 +5,16 @@ Revenue Engine: Data-Driven Performance Analysis
 Bu çalışma Marketing veri setinin toplamda sahip olduğu 13.4B$’lık geliri. Sistem analizi perspektifiyle incelenmiştir. Amaç gelirin verimliliğini, gelirin yapısı, geliri oluşturan alt kırılımlardaki, scale(Büyütme) veya optimize(iyileştirme) fırsatlarını tespit ederek, geliri arttırmak için stratejik aksiyonlar oluşturulmuştur.
 
 
-Analitik Çerçeve
-Gelir yönetimi için üretilen metrikler sistemsel olarak ele alınmıştır.
-Değişken Tanım	Sistem İşleyişi (Basit Açıklama)
-Gelirin oluşum kaynağı	 (Marketing Spend) ve (Lead) sayısıdır.
-Gelirin verimi	CLTV/CAC
-Sistem sağlığı	Ödeme disiplini
-Gelirin elde edilme hızı	Payback period(Gün)
-Kaldıraç/Strategy	Scale/optimizasyon CLTV/CAC ratio ve ödeme hızı üst segmentlerden büyükse optimize et eğer düşükse scale et
-Analiz kırılımları	Kanallar, Industry ve Company size
-Gelirdeki sızıntıların tespiti	Risk score ve riskte olan para miktarı
+### 🧠 Analitik Çerçeve (Framework)
+
+| Değişken | Tanım | Sistem İşleyişi (Basit Açıklama) |
+| :--- | :--- | :--- |
+| **Gelir Kaynağı** | Marketing Spend & Lead Sayısı | Sistemin ana yakıtı ve büyüme potansiyeli. |
+| **Gelir Verimi** | CLTV / CAC | Yatırımın kaç kat değer ürettiği (Çarpan Etkisi). |
+| **Sistem Sağlığı** | Ödeme Disiplini | Nakit akış kalitesi ve sistemsel tahsilat başarısı. |
+| **Elde Etme Hızı** | Payback Period (Gün) | Yatırımın kasaya geri dönme ivmesi. |
+| **Kaldıraç / Strateji**| Scale / Optimizasyon | Verim/Hız hedefin üstündeyse **Scale**, altındaysa **Optimize**. |
+| **Sızıntı Tespiti** | Risk Score & Riskteki Para | Churn ve ödeme gecikmesi kaynaklı enerji kaybı. |
 
 
 Geliri yukarıdaki tabloya uygun bir şekilde akış olarak ele aldım. Bu tabloya göre gelirin sağlığını ölçtüm
