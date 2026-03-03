@@ -22,16 +22,16 @@ Geliri yukarıdaki tabloya uygun bir şekilde akış olarak ele aldım. Bu tablo
 
 
 
-Toplam değerler
-Metric	Value
-Total Revenue	$13,452.50M
-Average ROAS	736
-LTV/CAC Ratio	737
-Average CAC	4,021
-Average CPL	4.02
-Revenue at Risk	$2203.60M
-Payback Period	194 Days
-Payment Discipline	0.87
+| Metric | Value |
+| :--- | :--- |
+| **Total Revenue** | $13,452.50M |
+| **Average ROAS** | 736 |
+| **LTV/CAC Ratio** | 737 |
+| **Average CAC** | $4,021 |
+| **Average CPL** | $4.02 |
+| **Revenue at Risk** | $2,203.60M |
+| **Payback Period** | 194 Days |
+| **Payment Discipline** | 0.87 |
 
 
 Risk altında gözüken $2203.60M’luk gelirin alt kırılımlarda
